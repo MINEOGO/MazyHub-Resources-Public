@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bd9a5a57-7a58-4f99-a434-c247781b16f7/deploy-status)](https://app.netlify.com/projects/mazyhub/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd9a5a57-7a58-4f99-a434-c247781b16f7/deploy-status)](https:/mazyhub.netlify.app/api/emotes)
 
 # MazyHub-Resources-Public
 you can find resources the roblox script MazyHub uses here! :)
