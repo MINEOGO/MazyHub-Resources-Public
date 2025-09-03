@@ -15,7 +15,7 @@ export async function handler() {
         embeds: [
           {
             title: "Script executed!",
-            description: "Someone visited **/api/emotes** 🚀",
+            description: "**v0.1.3** successfully loaded!🚀",
             color: 0x5865f2,
           },
         ],
