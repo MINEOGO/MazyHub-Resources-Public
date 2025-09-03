@@ -1,0 +1,52 @@
+{
+  "_for_cintributors_": "you can also add emote catalog IDs here!"
+},
+
+{
+  "emotes": [
+    {
+      "Name": "Fuck You",
+      "Id": "rbxassetid://115755052140627"
+    },
+    {
+      "Name": "obby",
+      "Id": "rbxassetid://71337558824888"
+    },
+    {
+      "Name": "Egoist Isagi",
+      "Id": "rbxassetid://90317575602900"
+    },
+    {
+      "Name": "Rin Stance",
+      "Id": "rbxassetid://122306366995847"
+    },
+    {
+      "Name": "race car",
+      "Id": "rbxassetid://72382226286301"
+    },
+    {
+      "Name": "car",
+      "Id": "rbxassetid://124756446017361"
+    },
+    {
+      "Name": "rat dance",
+      "Id": "rbxassetid://78684440273676"
+    },
+    {
+      "Name": "I WANNA RUN AWAYY!",
+      "Id": "rbxassetid://104428851742579"
+    },
+    {
+      "Name": "gangnam style",
+      "Id": rbxassetid://100531289776679
+    },
+    {
+      "Name": "obby v2",
+      "Id": "rbxassetid://115569573258316"
+    },
+    {
+      "Name": "67 thousand aura🗿",
+      "Id": "rbxassetid://133418516499878"
+    }
+  ]
+}
