@@ -1,6 +1,5 @@
 import fs from "fs";
 import path from "path";
-import fetch from "node-fetch"; // <-- add this
 
 export async function handler() {
   try {
@@ -16,29 +15,28 @@ export async function handler() {
         embeds: [
           {
             title: "Script executed!",
-            description: "v0.1.3 loaded successfully 🚀",
-            color: 0x5865f2
-          }
-        ]
+            description: "Someone visited **/api/emotes** 🚀",
+            color: 0x5865f2,
+          },
+        ],
       };
 
-      // fire webhook but don't block response
       fetch(webhookUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload)
-      }).catch(err => console.error("Webhook failed:", err));
+        body: JSON.stringify(payload),
+      }).catch((err) => console.error("Webhook failed:", err));
     }
 
     return {
       statusCode: 200,
       headers: { "Content-Type": "application/json" },
-      body: data
+      body: data,
     };
   } catch (err) {
     return {
       statusCode: 500,
-      body: JSON.stringify({ error: err.message })
+      body: JSON.stringify({ error: err.message }),
     };
   }
 }
