@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api/emotes"
+  to = "/emotes.json"
+  status = 200
