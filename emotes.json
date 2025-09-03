@@ -1,8 +1,5 @@
 {
-  "_for_contributors_": "you can also add emote catalog IDs here!"
-},
-
-{
+  "_for_contributors_": "You can add emote catalog IDs or rbxassetids here!",
   "emotes": [
     {
       "Name": "Fuck You",
