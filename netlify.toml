@@ -1,4 +1,7 @@
+[build]
+  functions = "netlify/functions"
+
 [[redirects]]
   from = "/api/emotes"
-  to = "/emotes.json"
+  to = "/.netlify/functions/emotes"
   status = 200
