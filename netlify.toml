@@ -5,6 +5,7 @@
   from = "/api/emotes"
   to = "/.netlify/functions/emotes"
   status = 200
+[[redirects]]
   from = "/api/p-users"
   to = "premium_users.json"
   status = 200
