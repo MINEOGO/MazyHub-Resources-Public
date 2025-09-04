@@ -5,3 +5,6 @@
   from = "/api/emotes"
   to = "/.netlify/functions/emotes"
   status = 200
+  from = "/api/p-users"
+  to = "premium_users.json"
+  status = 200
