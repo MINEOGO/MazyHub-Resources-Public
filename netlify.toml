@@ -9,3 +9,8 @@
   from = "/api/p-users"
   to = "premium_users.json"
   status = 200
+[[redirects]]
+  from = "/api/bfs"
+  to = "/netlify/functions/bfs.js"
+  status = 200
+  
