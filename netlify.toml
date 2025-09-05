@@ -11,6 +11,6 @@
   status = 200
 [[redirects]]
   from = "/api/bfs"
-  to = "/netlify/functions/bfs.js"
+  to = "/netlify/functions/bfs"
   status = 200
   
